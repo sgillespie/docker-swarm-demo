@@ -23,6 +23,7 @@ Alternatively, on ArchLinux
 # Running the demo
 
 Launch the cluster
+
     git clone https://github.com/sgillespie/docker-swarm-demo.git
     cd docker-swarm-demo
     docker-compose up --build
