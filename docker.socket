@@ -1,0 +1,8 @@
+[Socket]
+ListenStream=0.0.0.0:2375
+
+[Socket]
+ListenStream=/var/run/docker.sock
+SocketMode=0660
+SocketUser=root
+SocketGroup=docker
